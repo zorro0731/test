@@ -1,7 +1,7 @@
 Première version
 
 Partie A
-	Voilà ma partie A
+	Here is ma partie A
 
 Partie B
 	Filing part B
